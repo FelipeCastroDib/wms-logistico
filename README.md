@@ -32,10 +32,13 @@ Desenvolver uma solução para otimizar processos logísticos e aumentar a efici
 ## Screenshots
 
 ### Codigo
-![Codigo](Imagens/Codigo-WMS.paint)
+![Codigo](Imagens/Codigo.png)
 
 ### WMS
-![WMS](Imagens/WMS-print1.paint)
+![WMS](Imagens/Wms.png)
+
+### Estoque
+![Estoque](Imagens/Estoque.png)
 
 
 ## Autor
