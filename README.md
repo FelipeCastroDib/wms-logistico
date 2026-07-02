@@ -31,14 +31,11 @@ Desenvolver uma solução para otimizar processos logísticos e aumentar a efici
 
 ## Screenshots
 
-### Dashboard
-![Dashboard](Imagens/dashboard.png)
+### Codigo
+![Codigo](Imagens/Codigo-WMS.paint)
 
-### Busca por SKU
-![Busca](Imagens/busca.png)
-
-### Picking Inteligente
-![Picking](Imagens/picking.png)
+### WMS
+![WMS](Imagens/WMS-print1.paint)
 
 
 ## Autor
