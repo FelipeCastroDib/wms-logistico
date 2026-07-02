@@ -29,8 +29,16 @@ Desenvolver uma solução para otimizar processos logísticos e aumentar a efici
 - Lógica de programação
 - Desenvolvimento com Google Apps Script
 
-## Imagens
+## Screenshots
 
+### Dashboard
+![Dashboard](Imagens/dashboard.png)
+
+### Busca por SKU
+![Busca](Imagens/busca.png)
+
+### Picking Inteligente
+![Picking](Imagens/picking.png)
 
 
 ## Autor
